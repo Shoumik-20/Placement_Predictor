@@ -1,0 +1,293 @@
+GR  Number,Branch ?,CPI,ML/DL/DA,AI/BC/DM,VLSI/SP/Comm,IP/Embed,IoT/Android/commn,Research,TOM/MECH,GEARS/GT,Internship,Company Class
+141828,Comp,8.39,-1,-1,-1,1,1,-1,-1,-1,ML/AI,D
+141305,Comp,8.41,-1,-1,-1,1,1,-1,-1,-1,RS,D
+141041,Comp,8.32,1,-1,-1,1,1,-1,-1,-1,OT,D
+141335,Comp,8.78,1,-1,-1,-1,1,-1,-1,-1,OT,D
+141357,Comp,8.7,1,-1,1,-1,1,-1,-1,-1,OT,D
+141798,Comp,8.3,1,-1,-1,1,1,-1,-1,-1,OT,D
+141438,Comp,7.75,1,1,-1,1,1,1,-1,-1,ML/AI,D
+141284,Comp,8.8,1,-1,-1,-1,1,-1,-1,-1,OT,D
+141066,Comp,7.5,1,1,-1,1,1,-1,-1,-1,WB/SB,D
+152052,Comp,8.39,-1,-1,-1,1,1,-1,-1,-1,WB/SB,D
+152125,Comp,8.56,-1,-1,-1,-1,1,-1,-1,-1,OT,D
+141222,Comp,8.32,1,-1,-1,1,1,1,-1,-1,RS,D
+141303,Comp,9.27,1,-1,-1,-1,1,-1,-1,-1,ML/AI,D
+152070,Comp,8.3,1,-1,-1,-1,1,-1,-1,-1,OT,D
+142132,Comp,8.5,1,-1,-1,-1,1,-1,-1,-1,OT,D
+141655,Comp,7.92,1,-1,-1,-1,-1,-1,-1,-1,OT,D
+152009,Comp,9.02,1,-1,-1,-1,1,-1,-1,-1,AND/IOT,D
+141440,Comp,8.34,1,-1,-1,1,1,-1,-1,-1,WB/SB,D
+141772,Comp,7.92,1,-1,-1,-1,-1,-1,-1,-1,AND/IOT,D
+152094,Comp,8.6,1,-1,-1,1,1,-1,-1,-1,OT,D
+141651,Comp,8.4,-1,1,-1,1,-1,-1,-1,-1,OT,D
+141326,Comp,8.5,-1,-1,-1,1,1,-1,-1,-1,OT,D
+152029,Comp,8.34,1,-1,-1,1,1,-1,-1,-1,RS,D
+141284,Comp,8.4,1,-1,-1,-1,1,-1,-1,-1,ML/AI,D
+141682,Comp,8.48,-1,-1,-1,-1,1,-1,-1,-1,AND/IOT,D
+152072,Electronics and telecommunication,7,1,1,-1,1,1,1,-1,-1,WB/SB,D
+141057,Electronics and telecommunication,9.4,1,-1,-1,1,1,-1,-1,-1,ML/AI,D
+141249,Electronics and telecommunication,8.48,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,D
+141658,Electronics and telecommunication,8.7,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,D
+152133,Electronics and telecommunication,9.33,1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,D
+141821,Electronics and telecommunication,8.42,-1,-1,1,1,1,-1,-1,-1,OT,D
+141414,Electronics and telecommunication,7.2,1,1,-1,1,1,-1,-1,-1,OT,D
+152105,Electronics and telecommunication,8.76,-1,-1,-1,1,-1,-1,-1,-1,EM/SP/CM,D
+152058,Electronics and telecommunication,8.8,-1,-1,1,1,-1,-1,-1,-1,EM/SP/CM,D
+141306,Electronics and telecommunication,8.8,1,-1,1,1,-1,-1,-1,-1,EM/SP/CM,D
+141028,Electronics and telecommunication,8.42,-1,-1,-1,1,-1,-1,-1,-1,ML/AI,D
+141319,Electronics and telecommunication,8.56,-1,-1,-1,1,1,-1,1,-1,EM/SP/CM,D
+141624,Electronics and telecommunication,8.42,1,-1,-1,-1,1,-1,-1,-1,ML/AI,D
+152146,Electronics and telecommunication,8.8,1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,D
+141224,Electronics and telecommunication,8.52,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,D
+141167,Electronics and telecommunication,8.44,-1,-1,1,1,1,-1,-1,-1,EM/SP/CM,D
+141353,Electronics and telecommunication,8.8,1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,D
+141607,Electronics and telecommunication,8.62,-1,-1,-1,1,-1,-1,-1,-1,EM/SP/CM,D
+141226,Electronics and telecommunication,8.42,1,-1,1,1,-1,-1,-1,-1,ML/AI,D
+152103,Electronics and telecommunication,8.6,-1,-1,1,1,1,-1,-1,-1,MECH,D
+141539,Electronics and telecommunication,8.78,-1,1,-1,1,1,-1,-1,-1,ML/AI,D
+152105,Electronics and telecommunication,8.72,1,-1,-1,1,1,1,-1,-1,EM/SP/CM,D
+141394,Electronics and telecommunication,8.44,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,D
+141119,Electronics and telecommunication,8.06,-1,-1,1,1,-1,1,-1,-1,EM/SP/CM,D
+141626,Electronics and telecommunication,8.44,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,D
+131185,Electronics and telecommunication,8.78,-1,-1,1,1,-1,-1,-1,-1,OT,D
+141499,Electronics and telecommunication,8.5,-1,-1,1,1,1,-1,-1,-1,EM/SP/CM,D
+141019,Comp,7.42,-1,1,-1,1,1,-1,-1,-1,OT,E
+141582,Comp,6.4,-1,-1,-1,-1,1,-1,-1,-1,WB/SB,E
+141099,Comp,7.92,1,-1,-1,1,1,-1,-1,-1,AND/IOT,E
+141258,Comp,7.92,-1,1,-1,1,1,-1,-1,-1,AND/IOT,E
+152038,Comp,7.9,1,1,-1,1,1,-1,-1,-1,AND/IOT,E
+152087,Comp,7.98,-1,1,-1,1,1,-1,-1,-1,AND/IOT,E
+141691,Comp,8.7,-1,-1,-1,-1,1,-1,-1,-1,OT,E
+141009,Comp,8.04,-1,1,-1,1,1,-1,-1,-1,AND/IOT,E
+141415,Electronics and telecommunication,9.51,1,-1,-1,-1,-1,-1,-1,-1,EM/SP/CM,E
+152048,Electronics and telecommunication,8.28,-1,-1,1,-1,1,1,-1,-1,AND/IOT,E
+131810,Electronics and telecommunication,8.26,-1,-1,1,-1,-1,1,-1,-1,MARK,E
+152054,Electronics and telecommunication,7.84,-1,-1,1,-1,1,1,-1,-1,AND/IOT,E
+141406,Electronics and telecommunication,7.9,-1,1,1,-1,1,-1,-1,-1,AND/IOT,E
+152025,Electronics and telecommunication,7.88,-1,-1,1,-1,1,1,-1,-1,AND/IOT,E
+141341,Electronics and telecommunication,7.9,-1,-1,1,-1,1,-1,-1,-1,RS,E
+141013,Electronics and telecommunication,7.84,-1,-1,1,1,-1,1,-1,-1,EM/SP/CM,E
+141025,Electronics and telecommunication,7.85,-1,-1,1,-1,1,1,-1,-1,OT,E
+1471791,Electronics and telecommunication,7.94,-1,-1,1,-1,1,1,-1,-1,AND/IOT,E
+141368,Comp,8.9,1,-1,-1,-1,1,-1,-1,-1,WB/SB,C
+141789,Comp,8.93,1,-1,-1,-1,1,1,-1,-1,WB/SB,C
+141147,Comp,8.84,1,-1,-1,-1,1,-1,-1,-1,WB/SB,C
+141643,Comp,8.92,1,-1,-1,1,-1,1,-1,-1,OT,C
+141135,Comp,8.86,1,-1,-1,1,1,-1,-1,-1,WB/SB,C
+141315,Comp,8.94,1,1,-1,-1,1,-1,-1,-1,ML/AI,C
+141389,Comp,7.9,-1,-1,1,1,-1,-1,-1,-1,RS,C
+152142,Comp,8.34,1,1,-1,-1,-1,-1,-1,-1,ML/AI,C
+141332,Comp,8.86,1,-1,-1,-1,1,-1,-1,-1,OT,C
+141433,Comp,8.34,1,1,-1,-1,-1,-1,-1,-1,ML/AI,C
+141590,Comp,7.9,-1,-1,1,1,-1,-1,-1,-1,WB/SB,C
+141782,Comp,9.4,1,1,-1,1,1,-1,-1,-1,MARK,C
+141345,Comp,8.96,1,1,-1,1,1,1,-1,-1,WB/SB,C
+141299,Comp,8.92,1,1,-1,-1,1,-1,-1,-1,WB/SB,C
+141257,Comp,9.04,-1,-1,-1,-1,1,-1,-1,-1,RS,C
+141148,Comp,8.92,1,-1,-1,-1,1,-1,-1,-1,WB/SB,C
+141711,Comp,8.32,1,-1,-1,1,1,-1,-1,-1,AND/IOT,C
+141565,Comp,8.88,1,-1,-1,1,1,-1,-1,-1,WB/SB,C
+141659,Comp,8.96,1,1,-1,-1,1,-1,-1,-1,OT,C
+141712,Comp,9.04,1,1,-1,1,1,-1,-1,-1,WB/SB,C
+141127,Electronics and telecommunication,8.2,1,-1,1,-1,-1,-1,-1,-1,MARK,C
+141774,Electronics and telecommunication,8.86,1,-1,1,-1,-1,-1,-1,-1,ML/AI,C
+141550,Electronics and telecommunication,6.3,-1,-1,-1,-1,1,-1,-1,-1,AND/IOT,C
+141233,Electronics and telecommunication,8.85,1,-1,-1,-1,-1,-1,-1,-1,ML/AI,C
+152111,Electronics and telecommunication,9.2,1,-1,1,-1,1,-1,-1,-1,EM/SP/CM,C
+152010,Electronics and telecommunication,9,1,-1,1,-1,-1,-1,-1,-1,EM/SP/CM,C
+141617,Electronics and telecommunication,8.88,1,1,1,-1,-1,-1,-1,-1,AND/IOT,C
+141728,Electronics and telecommunication,8.88,1,-1,1,-1,1,-1,-1,-1,AND/IOT,C
+141103,Electronics and telecommunication,8.96,1,-1,1,-1,1,-1,-1,-1,AND/IOT,C
+141606,Comp,8.37,1,1,1,1,1,-1,-1,-1,WB/SB,B
+141604,Comp,9.34,1,1,1,1,1,-1,-1,-1,WB/SB,B
+141084,Comp,8.04,-1,-1,-1,-1,1,-1,-1,-1,OT,B
+141304,Comp,9.48,1,1,1,1,-1,-1,-1,-1,ML/AI,B
+141677,Comp,9.31,1,1,-1,1,1,-1,-1,-1,WB/SB,B
+141541,Comp,9.43,1,1,-1,1,1,-1,-1,-1,WB/SB,B
+141235,Comp,9.49,1,1,1,-1,1,-1,-1,-1,WB/SB,B
+141473,Comp,8.03,-1,1,1,1,1,-1,-1,-1,OT,B
+141401,Comp,8.5,-1,1,-1,-1,1,-1,-1,-1,ML/AI,B
+141473,Comp,9.34,1,1,-1,1,1,-1,-1,-1,WB/SB,B
+141173,Comp,9.4,1,1,-1,1,-1,-1,-1,-1,WB/SB,B
+141648,Comp,9.38,1,1,-1,-1,1,-1,-1,-1,ML/AI,B
+141094,Electronics and telecommunication,9.57,1,1,1,1,1,-1,-1,-1,EM/SP/CM,B
+141400,Electronics and telecommunication,9.44,1,1,1,1,-1,-1,-1,-1,EM/SP/CM,B
+141098,Electronics and telecommunication,9.33,1,1,1,1,-1,-1,-1,-1,OT,B
+131703,Electronics and telecommunication,9.3,-1,1,1,1,1,-1,-1,-1,EM/SP/CM,B
+141457,Electronics and telecommunication,9.4,-1,1,1,1,1,-1,-1,-1,EM/SP/CM,B
+141161,Electronics and telecommunication,9.36,-1,-1,1,1,1,-1,-1,-1,EM/SP/CM,B
+141102,Electronics and telecommunication,9.51,1,-1,1,1,1,-1,-1,-1,WB/SB,B
+141457,Electronics and telecommunication,8.12,-1,1,1,-1,1,1,-1,-1,ML/AI,B
+141610,Electronics and telecommunication,9.32,1,1,-1,1,-1,-1,-1,-1,EM/SP/CM,B
+141057,Electronics and telecommunication,9.34,1,1,1,-1,1,-1,-1,-1,ML/AI,B
+152004,Electronics and telecommunication,9.32,-1,1,1,1,-1,-1,-1,-1,EM/SP/CM,B
+141159,Comp,7.78,1,-1,-1,-1,-1,-1,-1,-1,OT,F
+141022,Comp,8.79,-1,-1,-1,1,1,-1,-1,-1,ML/AI,F
+152023,Comp,8.3,-1,-1,-1,1,1,-1,-1,-1,OT,F
+141399,Comp,7.4,1,-1,-1,-1,-1,-1,-1,-1,AND/IOT,F
+141693,Comp,6,-1,-1,-1,-1,1,-1,-1,-1,NO,F
+141752,Comp,6.83,1,-1,-1,-1,-1,-1,-1,-1,NO,F
+152080,Comp,7.57,1,-1,1,-1,-1,-1,-1,-1,WB/SB,F
+141118,Comp,7.76,-1,-1,-1,-1,1,-1,-1,-1,OT,F
+141558,Comp,7.01,1,-1,-1,-1,-1,-1,-1,-1,RS,F
+141402,Comp,8.54,-1,1,-1,-1,1,-1,-1,-1,OT,F
+141118,Comp,7.76,-1,-1,-1,-1,1,-1,-1,-1,OT,F
+141276,Comp,8.4,-1,1,-1,1,1,-1,-1,-1,OT,F
+141487,Comp,7.46,1,-1,-1,-1,-1,-1,-1,-1,ML/AI,F
+152089,Comp,7.59,1,1,-1,-1,-1,-1,-1,-1,NO,F
+141669,Comp,7.1,-1,1,-1,-1,-1,-1,-1,-1,AND/IOT,F
+141448,Comp,7.67,1,-1,-1,-1,-1,-1,-1,-1,ML/AI,F
+141404,Comp,6.5,-1,-1,-1,-1,1,-1,-1,-1,NO,F
+141276,Comp,8.4,-1,1,-1,1,1,-1,-1,-1,OT,F
+141766,Comp,8.7,-1,1,-1,-1,1,-1,-1,-1,AND/IOT,F
+141625,Comp,9.1,-1,-1,-1,1,1,-1,-1,-1,AND/IOT,F
+152017,Comp,7.2,-1,-1,-1,-1,1,-1,-1,-1,OT,F
+141063,Comp,7.4,-1,1,-1,1,1,-1,-1,-1,OT,F
+141066,Comp,7.46,-1,1,-1,-1,1,-1,-1,-1,RS,F
+131633,Comp,7.6,-1,-1,-1,1,1,-1,-1,-1,OT,F
+141509,Electronics and telecommunication,7,-1,-1,1,-1,1,-1,-1,-1,OT,F
+141234,Electronics and telecommunication,7.72,-1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+141283,Electronics and telecommunication,8.79,1,-1,-1,-1,-1,-1,-1,-1,WB/SB,F
+141809,Electronics and telecommunication,6.66,-1,-1,-1,-1,1,-1,-1,-1,OT,F
+141380,Electronics and telecommunication,8.44,1,-1,-1,-1,1,-1,-1,-1,EM/SP/CM,F
+141706,Electronics and telecommunication,7.72,-1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+141220,Electronics and telecommunication,7.08,-1,-1,1,-1,1,-1,-1,-1,OT,F
+141356,Electronics and telecommunication,7.74,-1,1,1,-1,1,-1,-1,-1,EM/SP/CM,F
+141709,Electronics and telecommunication,8.45,1,-1,1,-1,-1,-1,-1,-1,AND/IOT,F
+152063,Electronics and telecommunication,8.44,-1,-1,1,-1,1,-1,-1,-1,EM/SP/CM,F
+141006,Electronics and telecommunication,9.44,1,-1,1,-1,-1,-1,-1,-1,ML/AI,F
+141767,Electronics and telecommunication,7.24,-1,-1,1,-1,1,1,-1,-1,RS,F
+141158,Electronics and telecommunication,7,1,-1,1,-1,1,-1,-1,-1,EM/SP/CM,F
+152086,Electronics and telecommunication,8.51,-1,-1,1,-1,1,-1,-1,-1,EM/SP/CM,F
+141291,Electronics and telecommunication,7.53,-1,-1,1,-1,1,1,-1,-1,EM/SP/CM,F
+141108,Electronics and telecommunication,8.38,-1,-1,-1,-1,1,-1,-1,-1,AND/IOT,F
+141342,Electronics and telecommunication,7.68,-1,-1,1,-1,1,-1,-1,-1,EM/SP/CM,F
+141287,Electronics and telecommunication,8.78,-1,-1,1,-1,-1,-1,-1,-1,EM/SP/CM,F
+152027,Electronics and telecommunication,9.42,1,-1,-1,-1,1,-1,-1,-1,EM/SP/CM,F
+141532,Electronics and telecommunication,7.78,-1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+141279,Electronics and telecommunication,8.83,1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+141047,Electronics and telecommunication,7.7,-1,-1,1,-1,-1,1,-1,-1,EM/SP/CM,F
+141216,Electronics and telecommunication,7.5,-1,-1,1,-1,-1,1,-1,-1,EM/SP/CM,F
+141421,Electronics and telecommunication,7.03,-1,-1,-1,1,1,-1,-1,-1,WB/SB,F
+141056,Electronics and telecommunication,8.33,-1,-1,1,-1,-1,-1,-1,-1,EM/SP/CM,F
+141129,Electronics and telecommunication,8.44,-1,-1,-1,-1,1,-1,-1,-1,ML/AI,F
+141031,Electronics and telecommunication,6.63,-1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+141410,Electronics and telecommunication,8.73,1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+141368,Electronics and telecommunication,8.32,-1,-1,-1,-1,1,-1,-1,-1,WB/SB,F
+141522,Electronics and telecommunication,7.76,1,-1,1,1,1,-1,-1,-1,MARK,F
+141385,Electronics and telecommunication,7,-1,-1,1,1,1,-1,-1,-1,OT,F
+141658,Electronics and telecommunication,7.72,-1,-1,1,-1,-1,-1,-1,-1,ML/AI,F
+131684,Electronics and telecommunication,6,-1,-1,-1,-1,1,-1,-1,-1,OT,F
+141644,Electronics and telecommunication,7.74,1,1,1,-1,1,-1,-1,-1,WB/SB,F
+141429,Electronics and telecommunication,8.43,-1,-1,1,-1,-1,-1,-1,-1,ML/AI,F
+141722,Electronics and telecommunication,7.78,-1,-1,1,-1,-1,1,-1,-1,EM/SP/CM,F
+141379,Electronics and telecommunication,7.1,-1,-1,1,-1,1,-1,-1,-1,OT,F
+141123,Electronics and telecommunication,8.42,1,-1,-1,-1,-1,-1,-1,-1,MARK,F
+152113,Electronics and telecommunication,7.35,-1,1,-1,-1,-1,-1,-1,-1,ML/AI,F
+141450,Electronics and telecommunication,6.93,-1,-1,-1,-1,-1,1,-1,-1,OT,F
+141566,Electronics and telecommunication,7.35,-1,-1,-1,-1,1,-1,-1,-1,EM/SP/CM,F
+141454,Electronics and telecommunication,7.19,-1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+141806,Electronics and telecommunication,6.91,-1,-1,1,-1,-1,-1,-1,-1,EM/SP/CM,F
+141559,Electronics and telecommunication,6.42,-1,-1,-1,-1,1,-1,-1,-1,AND/IOT,F
+141219,Electronics and telecommunication,6.58,-1,-1,1,-1,-1,-1,-1,-1,AND/IOT,F
+141312,Electronics and telecommunication,6.9,-1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+131834,Electronics and telecommunication,5.8,1,-1,1,-1,-1,-1,-1,-1,WB/SB,F
+141514,Electronics and telecommunication,6.3,-1,-1,1,-1,-1,-1,-1,-1,ML/AI,F
+141413,Electronics and telecommunication,6.4,-1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+142026,Electronics and telecommunication,6,-1,-1,-1,-1,1,-1,-1,-1,OT,F
+141054,Comp,9.52,1,1,-1,1,1,-1,-1,-1,WB/SB,A
+141160,Comp,8.29,1,1,-1,1,1,-1,-1,-1,WB/SB,A
+141152,Instrumentation,8.82,1,-1,-1,-1,1,-1,-1,-1,OT,C
+141755,Instrumentation,8.9,1,-1,1,-1,1,-1,-1,-1,ML/AI,C
+141089,Instrumentation,9,1,-1,-1,1,1,-1,1,-1,OT,C
+141142,Instrumentation,8.32,-1,1,1,1,-1,-1,-1,-1,WB/SB,D
+141156,Instrumentation,8.38,-1,1,-1,1,-1,-1,-1,-1,AND/IOT,D
+141199,Instrumentation,8.26,1,1,-1,1,1,1,-1,-1,WB/SB,D
+141579,Instrumentation,7.58,-1,-1,1,-1,-1,-1,1,-1,MECH,E
+152115,Instrumentation,8.1,-1,-1,1,1,-1,1,-1,-1,EM/SP/CM,E
+141328,Instrumentation,8.2,1,-1,1,-1,1,-1,1,-1,OT,E
+152084,Instrumentation,8.18,1,-1,1,1,-1,-1,1,-1,MECH,E
+152049,Instrumentation,8.22,1,1,1,-1,1,-1,-1,-1,WB/SB,E
+141352,Instrumentation,8.28,-1,-1,1,1,1,-1,-1,-1,ML/AI,E
+152042,Instrumentation,8.3,1,1,1,-1,1,-1,-1,-1,ML/AI,E
+141729,Instrumentation,8.08,-1,-1,-1,1,-1,-1,1,-1,OT,E
+152099,Instrumentation,8.24,1,-1,1,1,1,-1,-1,-1,AND/IOT,E
+141254,Instrumentation,8.78,-1,1,1,1,1,-1,-1,-1,ML/AI,E
+141391,Instrumentation,8.8,-1,1,1,1,1,-1,-1,-1,ML/AI,E
+141536,Instrumentation,8.38,1,-1,-1,-1,-1,-1,-1,-1,ML/AI,E
+141310,Instrumentation,7.06,1,-1,1,-1,-1,-1,-1,-1,OT,F
+141375,Instrumentation,7.39,-1,-1,1,1,-1,-1,1,-1,MECH,F
+141475,Instrumentation,7.67,-1,-1,1,1,1,-1,-1,-1,AND/IOT,F
+141261,Instrumentation,7.78,-1,-1,1,-1,1,-1,-1,-1,AND/IOT,F
+141016,Instrumentation,7.76,-1,-1,-1,1,1,-1,-1,-1,AND/IOT,F
+152008,Instrumentation,7.64,1,-1,1,-1,-1,-1,-1,-1,ML/AI,F
+141244,Instrumentation,7.8,-1,-1,-1,1,1,-1,-1,-1,RS,F
+141723,Instrumentation,8.6,-1,-1,-1,1,1,-1,-1,-1,AND/IOT,F
+141024,Instrumentation,8.45,1,-1,1,1,1,1,-1,-1,AND/IOT,F
+141117,Instrumentation,8.54,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,F
+131426,Instrumentation,6.67,-1,-1,-1,-1,1,1,-1,-1,NO,F
+152120,Instrumentation,7.32,-1,-1,1,1,-1,-1,1,-1,AND/IOT,F
+141372,ELectronics,9.34,1,1,-1,1,1,-1,-1,-1,ML/AI,B
+141083,ELectronics,8.49,1,-1,-1,1,-1,-1,-1,-1,WB/SB,C
+141338,ELectronics,8.86,-1,1,1,-1,1,-1,-1,-1,ML/AI,C
+141045,ELectronics,9.24,-1,-1,1,-1,1,-1,-1,-1,EM/SP/CM,C
+141618,ELectronics,9.1,-1,1,1,-1,-1,1,-1,-1,EM/SP/CM,C
+141110,ELectronics,8.88,-1,-1,1,-1,1,-1,-1,-1,EM/SP/CM,C
+141223,ELectronics,9.1,1,-1,1,1,1,-1,-1,-1,ML/AI,C
+141339,ELectronics,8.9,-1,-1,1,1,1,1,-1,-1,EM/SP/CM,C
+141048,ELectronics,8.38,-1,-1,-1,-1,1,-1,-1,-1,MARK,D
+141634,ELectronics,8.8,1,1,-1,1,-1,-1,-1,-1,AND/IOT,D
+141790,ELectronics,8.74,1,-1,-1,1,-1,1,-1,-1,MARK,D
+141728,ELectronics,8.8,1,-1,1,1,-1,1,-1,-1,MARK,D
+141071,ELectronics,8.62,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,E
+141401,ELectronics,8.2,1,-1,1,-1,1,1,-1,-1,ML/AI,E
+141718,ELectronics,8.68,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,E
+141045,ELectronics,8.52,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,E
+141265,ELectronics,8.48,-1,-1,1,1,1,-1,-1,-1,EM/SP/CM,E
+141046,ELectronics,8.73,-1,-1,-1,1,1,-1,-1,-1,AND/IOT,F
+152001,ELectronics,8.42,1,-1,-1,1,1,-1,-1,-1,AND/IOT,F
+152128,ELectronics,7.6,1,-1,-1,1,1,-1,-1,-1,WB/SB,F
+141153,ELectronics,7.48,1,-1,-1,1,1,-1,-1,-1,AND/IOT,F
+141556,ELectronics,7.67,-1,-1,-1,1,1,-1,-1,-1,AND/IOT,F
+141136,ELectronics,8.78,-1,-1,-1,-1,-1,-1,-1,-1,EM/SP/CM,F
+141387,ELectronics,7.82,1,-1,-1,1,-1,-1,-1,-1,ML/AI,F
+141718,ELectronics,8.8,-1,-1,-1,-1,-1,-1,-1,-1,RS,F
+141246,ELectronics,8.1,-1,-1,1,1,1,-1,-1,-1,AND/IOT,F
+152101,ELectronics,8.2,-1,-1,-1,1,1,-1,-1,-1,EM/SP/CM,F
+152036,ELectronics,8.1,-1,-1,1,1,-1,-1,-1,-1,EM/SP/CM,F
+141262,ELectronics,8.1,-1,-1,-1,1,1,-1,-1,-1,MARK,F
+141364,ELectronics,8.4,1,-1,-1,1,1,-1,-1,-1,OT,F
+141660,ELectronics,8.35,-1,-1,1,1,1,-1,-1,-1,MARK,F
+141427,IT,9.05,1,1,-1,1,1,-1,-1,-1,OT,A
+141184,IT,9.2,1,-1,-1,-1,1,1,-1,-1,OT,B
+152020,IT,8.4,-1,-1,-1,-1,-1,1,-1,-1,RS,C
+152107,IT,8.2,1,-1,-1,-1,1,-1,-1,-1,ML/AI,C
+141329,IT,8.88,1,1,-1,-1,1,1,-1,-1,ML/AI,C
+141137,IT,9.09,1,-1,-1,1,1,-1,-1,-1,ML/AI,C
+141086,IT,8.03,-1,1,1,1,1,1,-1,-1,OT,C
+141192,IT,8.9,1,-1,-1,-1,1,-1,-1,-1,ML/AI,C
+141077,IT,9,1,1,-1,-1,1,-1,-1,-1,AND/IOT,C
+141205,IT,9.1,1,-1,-1,1,1,-1,-1,-1,ML/AI,C
+141428,IT,9.1,1,1,-1,-1,1,-1,-1,-1,ML/AI,C
+141819,IT,9.1,1,1,-1,-1,1,-1,-1,-1,ML/AI,C
+141340,IT,8.72,1,1,-1,-1,-1,-1,-1,-1,WB/SB,D
+141381,IT,8.57,1,1,-1,-1,-1,-1,-1,-1,WB/SB,D
+141296,IT,7.67,1,1,-1,1,-1,-1,-1,-1,WB/SB,D
+152131,IT,7.5,1,1,-1,1,-1,-1,-1,-1,WB/SB,D
+141819,IT,7.74,-1,1,-1,-1,-1,-1,-1,-1,ML/AI,D
+152020,IT,8.72,1,1,-1,-1,1,-1,-1,-1,OT,D
+141656,IT,8.58,1,1,-1,-1,1,-1,-1,-1,WB/SB,D
+141750,IT,9.08,-1,-1,-1,1,1,-1,-1,-1,WB/SB,D
+141529,IT,8.6,1,1,-1,-1,1,-1,-1,-1,AND/IOT,D
+141093,IT,8.64,1,1,-1,-1,1,-1,-1,-1,OT,D
+152014,IT,9.4,-1,1,-1,-1,1,-1,-1,-1,WB/SB,D
+141557,IT,6.9,1,-1,1,1,1,-1,-1,-1,AND/IOT,E
+141466,IT,8.4,1,-1,-1,1,-1,-1,-1,-1,Other,E
+141124,IT,7.14,1,1,-1,1,1,1,-1,-1,AND/IOT,F
+141724,IT,7.14,1,-1,-1,-1,-1,-1,-1,-1,WB/SB,F
+141346,IT,8.14,1,-1,-1,1,1,-1,-1,-1,NO,F
+141814,IT,8.14,1,-1,-1,1,1,-1,-1,-1,AND/IOT,F
+141213,IT,8.7,-1,-1,-1,1,1,-1,-1,-1,EM/SM/CM,F
+141476,IT,7.9,1,1,-1,-1,1,-1,-1,-1,AND/IOT,F
+152100,IT,8.1,1,-1,-1,1,-1,-1,-1,-1,AND/IOT,F
+152142,IT,7.8,1,-1,-1,1,1,-1,-1,-1,AND/IOT,F

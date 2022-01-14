@@ -1,0 +1,109 @@
+CLASS F Companies,CTC,Branches,,,,,,
+,,,,,,,,
+,,,,,,,,
+Cybage Ltd.,3.6,Comp,IT,,,,,F
+Faurecia Interior Systems India Pvt.Ltd.,3.5,,,,Mech,,,F
+Bristlecone,3.5,Comp,IT,,,,,F
+Accenture Ltd.,3.5,Comp,IT,E&tc,Mech,,,F
+Atos India Pvt. Ltd.,3.1,Comp,IT,E&tc,,,Elex,F
+Tata Elxsi Ltd.,3.5,Comp,IT,E&tc,,,,F
+Eleation,2.4,,,,Mech,,,F
+KPIT Technologies Ltd.,3.25,Comp,IT,E&tc,,,Elex,F
+Arxxus Technologies India Pvt. Ltd. ,2.7,Comp,IT,,,,,F
+Accelya Kale Solutions Ltd.,3.5,Comp,IT,,,,,F
+Bitwise Global,3,Comp,IT,,,,,F
+ASSERTION I SmarterHi Communications,3,Comp,IT,,,,,F
+Equilibrium Solutions Pvt. Ltd,2,,,,Mech,,,F
+Audetemi Technologies Pvt. Ltd.,2.65,Comp,IT,E&tc,,,,F
+"Qualys, Inc. – Continuous Security",3,Comp,IT,,,,,F
+Teach for India,2.4,Comp,IT,E&tc,Mech,,,F
+IFM Engineering Pvt. Ltd.,3,Comp,IT,E&tc,,,,F
+Jacobs India,3.12,,,,Mech,,,F
+Enpro Industries Pvt. Ltd. ,3.6,,,,Mech,,,F
+Kirloskar Pneumatic Company Ltd.,3.6,,,,Mech,,,F
+Kawasaki Motors Pvt. Ltd.,2.4,,,,Mech,,,F
+Tata Communications Ltd.,3,Comp,IT,E&tc,,,,F
+Renata Precision Components Pvt. Ltd,3,,,,Mech,,,F
+Indus Software Technologies Pvt. Ltd.,3,Comp,IT,,,,,F
+Sankey Business Solutions,3,Comp,IT,,,,,F
+"FIGmd, India",3.5,Comp,IT,E&tc,Mech,Instru,,F
+ZEPO,3,Comp,IT,,,,,F
+Wisdmlabs,3.5,Comp,IT,E&tc,,,,F
+Wipro Technologies Ltd.,3.3,Comp,IT,E&tc,Mech,Instru,,F
+Mindtree Ltd.,3.25,Comp,IT,E&tc,,Instru,,F
+Mithi Software Pvt. Ltd.,3,Comp,IT,,,,,F
+Stellar Value Chain Solutions Pvt. Ltd.,2.8,,,,Mech,,,F
+Wisdmlabs Sales and Digital Marketing Profile,3.5,,,E&tc,,,,F
+Definitics Software Solutions,1.8,Comp,IT,,,,,F
+Helium Consulting Pvt. Ltd.,3,Comp,IT,E&tc,,,,F
+Magna Steyr India Pvt. Ltd.,2.52,,,,Mech,,,F
+Alfa Laval,3,,,,,Instru,,F
+Atos,3,,,,,Instru,,F
+Thyssenkrupp Industries India,3.2,,,,,Instru,,F
+PinClick,3,,,,,Instru,,F
+Bilt Graphic Paper Products,3.3,,,,,Instru,,F
+Cotmac Electronics,3,,,,,,Elex,F
+Shell and Pearl Financial Advisors,2.8,,,,,,Elex,F
+INENCY,3,,,,,,Elex,F
+Ckaskmind Innovative LLP,3,,,,,,Elex,F
+Shoptimize India Pvt Ltd,3.5,,,,,,Elex,F
+3D PLM Dassault System,4.5,Comp,IT,,Mech,,,E
+Musafir.com,4.5,Comp,IT,E&tc,,,,E
+Honeywell Automation (I) Pvt. Ltd,4.5,Comp,,E&tc,Mech,Instru,,E
+Yardi Software India Pvt. Ltd.,4.5,Comp,IT,,,,,E
+Allstate Solutions Pvt. Ltd.,4.75,Comp,IT,E&tc,,,,E
+Optymyze,4.5,Comp,IT,,,,,E
+Xoriant,4.5,Comp,IT,,,,,E
+Searce Logistics Analytics LLP,4,Comp,IT,E&tc,Mech,,,E
+Persistent Systems Ltd.,4.13,Comp,IT,,,,,E
+Raja Software Labs,4,Comp,IT,,,,,E
+DHL Supply Chain,4.25,,,,Mech,,,E
+JFE Engineering India Pvt. Ltd.,4,,,,Mech,,,E
+Bauer Kompressoren,4,,,,Mech,,,E
+Saint?Gobain,4.2,,,,Mech,,,E
+DANA,4,,,E&tc,Mech,,,E
+Elastic Run,4,Comp,IT,,,,,E
+Electropneumatics & Hydraulics (I) Pvt. Ltd.,4,,,E&tc,,,,E
+Vodafone Shared Services Pvt. Ltd,4.5,Comp,IT,E&tc,Mech,,Elex,E
+Federal Bank,4.2,,,,,Instru,Elex,E
+Sudarshan,4,,,,,Instru,,E
+Vanderlande,4,,,,,Instru,,E
+Emerson Automation Solution ,4.2,,,,,Instru,,E
+KPMG,4,,,,,,Elex,E
+John Deere India Pvt Ltd,6.46,Comp,IT,,,,,D
+E Q Technologic Ltd.,6.5,Comp,IT,,,,,D
+Eaton Technologies Pvt. Ltd,5.52,Comp,,E&tc,Mech,Instru,Elex,D
+Principal Global Services (I)Pvt.Ltd,5.51,Comp,IT,E&tc,Mech,,,D
+National Payments Corporation of India,5.14,Comp,IT,,,,,D
+Mediaocean Asia Pvt. Ltd.,6,Comp,IT,,,,,D
+Searce Logistics Analytics LLP,6,Comp,IT,E&tc,Mech,,,D
+Honeywell,5.5,Comp,IT,E&tc,Mech,,Elex,D
+NICE Technology,5,Comp,IT,,,,,D
+ZS Associates,6.53,Comp,IT,E&tc,Mech,Instru,Elex,D
+Cognizant Technology Solutions (I) Pvt.Ltd.,6.5,Comp,IT,E&tc,Mech,Instru,Elex,D
+Continuum Managed Services Platform Pvt. Ltd.,5,Comp,IT,,,,,D
+Ryussi Technologies,5.5,Comp,IT,,,,,D
+Schlumberger Pune India Technology Center,5,Comp,IT,,,,,D
+ZEPO,6,Comp,IT,,,,,D
+TMF Services India Pvt. Ltd.,5.5,Comp,IT,,,,,D
+Credit Suisse,6.5,,,,,Instru,Elex,D
+Tech Mahindra,6,,,,,Instru,Elex,D
+Barclays Technology,8,Comp,IT,,,,,C
+Veritas Technologies Ltd.,9.25,Comp,IT,E&tc,,,,C
+FinIQ Consulting (I) Pvt. Ltd.,7,Comp,IT,E&tc,Mech,Instru,Elex,C
+HSBC Software Development(I)Pvt.Ltd.,7,Comp,IT,E&tc,Mech,Instru,,C
+UBS Software,8.5,Comp,IT,E&tc,,,,C
+NRB Bearings Ltd.,8,Comp,IT,,,,,C
+BYJU’s (Think & Learn Pvt. Ltd.),9,Comp,IT,E&tc,Mech,,Elex,C
+Elastic Run,7,Comp,IT,,,,,C
+General Electric,8,,,,,,Elex,C
+HP,7,,,,,,Elex,C
+Morgan Stanley,16.17,Comp,IT,E&tc,,,,B
+Avaya,12,Comp,IT,E&tc,,,,B
+Symantec Software India Pvt. Ltd,10.7,Comp,IT,E&tc,,,,B
+ION Trading India Pvt. Ltd.,12,Comp,IT,,,,,B
+Direct I,14.36,Comp,IT,,,,,B
+Accolite Software India Pvt. Ltd.,10,Comp,IT,,,,,B
+HSBC Software Development(I)Pvt.Ltd,12,Comp,IT,E&tc,Mech,Instru,Elex,B
+NRB Bearings Ltd.,15,Comp,IT,,,,,B
+Cadence Design Systems,10,Comp,IT,E&tc,Mech,,,B
